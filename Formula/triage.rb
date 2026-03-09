@@ -1,8 +1,8 @@
 class Triage < Formula
   desc "OpenIncidents CLI"
   homepage "https://github.com/xperro/OpenIncidents"
-  url "https://github.com/xperro/OpenIncidents/releases/download/v1.0.7/triage_1.0.7_bundle.tar.gz"
-  sha256 "d541907ff2e950585bdbeb20fe522469c1727f43622d791794e393867d6b6d86"
+  url "https://github.com/xperro/OpenIncidents/releases/download/v1.0.8/triage_1.0.8_bundle.tar.gz"
+  sha256 "82f0291fd0651212cae5f7768204a4e93122d8867d5786341c30439c095f0afd"
   depends_on "python"
 
   def install
